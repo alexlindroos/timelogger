@@ -1,6 +1,6 @@
 # Dart-CLI-TimeLogger
 
-![Image of Dart](https://cdn-images-1.medium.com/max/1600/1*F1HheGwiEFSxdTcYOuFgeA.png)
+![Image of Dart](https://banner2.kisspng.com/20180409/zte/kisspng-dart-google-developers-flutter-android-darts-5acbd976aea304.6247890515233089187153.jpg)
 
 CLI tool made with Dart to help you log your working hours.
 
