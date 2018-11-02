@@ -1,7 +1,5 @@
 # Dart-CLI-TimeLogger
 
-![Image of Dart](https://banner2.kisspng.com/20180409/zte/kisspng-dart-google-developers-flutter-android-darts-5acbd976aea304.6247890515233089187153.jpg)
-
 CLI tool made with Dart to help you log your working hours.
 
 1. Install dart and then open the tool by typing "dart loghours.dart"
